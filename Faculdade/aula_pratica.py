@@ -16,3 +16,9 @@ else:
 
 # 3. Exibindo o encerramento
 print("---------------------------")
+# Minhas Soft Skills para desenvolver em ADS
+soft_skills = ["Comunicação", "Resiliência", "Inteligência Emocional"]
+
+print("\n--- MINHA EVOLUÇÃO ---")
+for skill in soft_skills:
+    print(f"Eu estou desenvolvendo a habilidade: {skill}")
